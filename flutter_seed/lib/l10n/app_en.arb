@@ -1,0 +1,17 @@
+{
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "loginHere": "Login Here!",
+  "emailIsRequired": "Email is required",
+  "passwordIsRequired": "Password is required",
+  "emailAndPasswordAreRequired": "Email and Password are required",
+  "invalidEmail": "Invalid Email",
+  "invalidPassword": "Invalid Password",
+  "emailIsNotValid": "Email is not valid, eg abc@xyz.com",
+  "passwordIsNotValid": "Password must include between 8-12 characters, at least one special character, numeric digit, uppercase and lowercase.",
+  "invalidEmailOrPassword": "Invalid Email or Password",
+  "loginSuccessfully": "Login Successfully",
+  "okay": "Okay",
+  "skip": "skip"
+}

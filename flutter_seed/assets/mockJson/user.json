@@ -1,0 +1,11 @@
+{
+"id":"12345678",
+"name":"json yee",
+"nickname": "json",
+   "profile_complete": false,
+   "avatar":null,
+   "graduated": true,
+"current_address": "japan",
+"expert": "true"
+  
+} 
